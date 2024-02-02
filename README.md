@@ -1,1 +1,1 @@
-This repository contains my solutions to [CSES/Inctroductory problems](https://cses.fi/problemset/list/)
+This repository contains my solutions to [CSES problems](https://cses.fi/problemset/list/)
